@@ -1,0 +1,17 @@
+~Hello Fighters!
+
+
+
+আজকে Theory Module ছিল, কিছু Concept হয়তো বুঝতে পেরেছেন, কিছু Confusion হয়তো রয়ে গেছে। JS Event Loop নিয়ে যদি একটু ও Confusion থেকে থাকে, তাহলে এই নির্দেশনা গুলো আপনার জন্যই
+
+
+
+১) এই টেক্সট Instruction এর পরে দেওয়া ভিডিও টা দেখে আসুন, তারপর আবার এখানে Back করবেন।  
+
+
+
+২) নিচের লিঙ্ক দুইটার কোনোটাতে চলে যান। নিজের মত করে কিছু Practise করে ফেলুন Google/ Chatgpt থেকে Example নিয়ে Event Loop এর, আমি একটা Example এখানে Video তে দেখিয়েছি। আপনিও কাছাকাছি টাইপের কিছু Example নিজে নিজে ট্রাই করলে Event Loop এর পুরো Flow টা বুঝে যাবেন।Link-1:http://latentflip.com/loupe/
+
+
+
+Link-2: Https://Www.Jsv9000.App/

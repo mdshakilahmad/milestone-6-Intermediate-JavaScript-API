@@ -1,0 +1,9 @@
+সব ফাইল এখানে রয়েছে ঝাংকার ভাই এর গিট হাব এ।
+https://github.com/ProgrammingHero1/AI-universe-hub
+
+API লিঙ্ক টা নিচের টা।
+All data: https://openapi.programming-hero.com/api/ai/tools
+
+Single data details: https://openapi.programming-hero.com/api/ai/tool/${id}
+
+Single data Example: https://openapi.programming-hero.com/api/ai/tool/01

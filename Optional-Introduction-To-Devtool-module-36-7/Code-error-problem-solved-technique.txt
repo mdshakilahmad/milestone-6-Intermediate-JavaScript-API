@@ -1,0 +1,13 @@
+                Code error problem solved technique
+               =====================================
+
+1.backtracking । আমার কোড এর পিছনে গিয়ে চেক করে দেখবো একটা একটা ।
+2.forward tracking । আমার কোড এর সামনের গিয়ে চেক করে দেখবো একটা     
+  একটা ।
+3.elimination / comments । একটা একটা code এর লাইন comment করে করে 
+  দেখবো ।
+4.breakpoint / console -> watch করে দেখবো আসে পাশে , Esc চাপ দিইয়ে     
+  dev tool এ         
+  যাবো console tab এ গিয়ে চেক করে দেখবো । এরকম আর কিছু জিনিস আছে     
+  সেই জিনিস গোলও দিয়ে চেক করে দেখব code কথায় প্রবলেম রয়েছে ।
+5.brute force । এর মানে সব কিছু মিলিয়ে code চেক করে দেখবো ।

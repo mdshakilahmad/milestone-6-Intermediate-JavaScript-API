@@ -1,0 +1,6 @@
+34-1 Load Data Using Phone Hunter API :
+সব ফাইল এখানে রয়েছে ঝাংকার ভাই এর গিট হাব এ।
+https://github.com/ProgrammingHero1/phone-hunter-api?tab=readme-ov-file
+
+API লিঙ্ক টা নিচের টা।
+https://openapi.programming-hero.com/api/phones?search=iphone
